@@ -1,0 +1,29 @@
+*  { margin: 0px; padding:0px; border: 0px; }
+body { padding: 10px; font: 11px verdana,sans-serif; background: #222; color:#111; }
+#content h1 { font:normal 16px Rockwell, serif; margin-left:10px; }
+#details h1 { font:normal 32px Rockwell, serif; border-top:6px solid #76D254; text-align:center; }
+h2 { font:normal 16px verdana, sans-serif; color: #999; }
+h3 { font:bold 13px verdana, sans-serif; color: #999; }
+.item { margin:15px 0px 0px 20px; }
+#content .item h1 { margin-left:0px; }
+#content .item p { margin:5px 0px;padding-left:0px;}
+p { margin:10px 0px; }
+table.profiler { width:300px; background-color:#DDD; color:#000000; border:1px solid #000; }
+table.profiler tr { background-color:#EEE; }
+table.profiler tr.alternate { background-color:#DDD; }
+#details form { text-align:center; }
+input { border:1px solid #999; width:200px; text-align:left;}
+
+#navigation { list-style-type:none; margin-bottom:20px; }
+#navigation a { color:#FFF; display:block;text-align:right; padding:5px; font: bold 13px serif; text-decoration:none; } 
+#wrapper { width:700px; margin: 0px auto; background: #FFF; padding-bottom:60px; position:relative;}
+#details { width:300px;float:right; padding-right:10px; }
+#content { float:left;width:370px; padding-top:10px; }
+#content p { padding-left:10px; } 
+.title { font:bold 14px Arial,sans-serif; color:#BBB; }
+#details em { font:bold 14px Arial,sans-serif; color:#333; }
+#details p { margin-top:15px; }
+.button { display:block; -moz-border-radius:5px; width:200px; background:#EEE; border:1px solid #999; margin:0px auto;  padding:10px 10px 10px 10px; text-decoration:none; }
+.button span { color:#999; }
+.button img { float:left; margin-right:10px;}
+dt { margin-top:15px; font:bold 12px Arial,sans-serif; }
